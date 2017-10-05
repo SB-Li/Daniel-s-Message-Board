@@ -1,2 +1,2 @@
 # angular
-angular留言板
+Daniel's message board built with Angular.js
